@@ -1,4 +1,4 @@
-# LeetHeep
+# LeetHeap
 Repository to dump files used in leetcode
 
 A structured collection of my solutions, notes, and patterns from ongoing LeetCode practice.  
